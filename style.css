@@ -15,11 +15,8 @@ body{
 }
  
 .container{
-    /* width: 20em; */
-
-    min-height: 65rem;
-    width: 47rem;
-
+    min-height: 45rem;
+    width: 27rem;
     background-color: rgb(255, 255, 255);
     overflow: hidden;
     border-radius: 1em;
@@ -99,9 +96,7 @@ a:last-child{
     text-transform: capitalize;
     width: 100%;
     background-image: linear-gradient(60deg,#f7f7f7e0,#b9d4ee);
-
-    font-size: 2.4rem;
-
+    font-size: 1.5rem;;
     padding: 1em 3em;
     border-radius: 5em;
     overflow: hidden;
