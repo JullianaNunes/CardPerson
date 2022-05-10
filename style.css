@@ -11,12 +11,15 @@ body{
     justify-content: center;
     background-color: rgb(235 235 235);
     align-items: center;
+    font-size: 1.8rem;
 }
  
 .container{
     /* width: 20em; */
-    min-height: 55rem;
-    width: 37rem;
+
+    min-height: 65rem;
+    width: 47rem;
+
     background-color: rgb(255, 255, 255);
     overflow: hidden;
     border-radius: 1em;
@@ -52,7 +55,9 @@ body{
 }
  
 .name{
-    font-size: 2.3em;
+
+    font-size: 2.1em;
+
     text-transform: uppercase;
 }
  
@@ -94,7 +99,9 @@ a:last-child{
     text-transform: capitalize;
     width: 100%;
     background-image: linear-gradient(60deg,#f7f7f7e0,#b9d4ee);
-    font-size: 1.7rem;
+
+    font-size: 2.4rem;
+
     padding: 1em 3em;
     border-radius: 5em;
     overflow: hidden;
